@@ -124,7 +124,7 @@ p{
        display: flex;
        flex-wrap: wrap;
       margin: auto;
- 
+  height: 222vh;
        width: 320px;
 
     }
